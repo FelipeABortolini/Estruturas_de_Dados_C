@@ -1,0 +1,11 @@
+Considerações:
+ 
+Trabalho realizado em conjunto com os alunos:
+- Guilherme Alberto Matte
+- Pedro Henrique Centenaro
+- Victor Siqueira Quintas
+
+Trata-se de um programa que comprime dados, o qual cria um arquivo de texto com o código e 
+a tradução de cada caractere para a linguagem adotada pelo programa, isso torna os arquivos 
+mais leves. Assim, um decodificador traduz o código presente no arquivo de texto gerado e 
+mostra as mensagens na tela do usuário.
