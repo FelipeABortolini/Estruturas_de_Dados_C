@@ -1,6 +1,3 @@
-[submodule "Exercicios_C"]
-	path = Exercicios_C
-	url = https://github.com/FelipeABortolini/Exercicios_C.git
 [submodule "Exercicios_Python"]
 	path = Exercicios_Python
 	url = https://github.com/FelipeABortolini/Exercicios_Python.git
